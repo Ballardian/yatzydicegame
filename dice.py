@@ -1,3 +1,5 @@
+""" Dice generator """
+
 import random
 
 class Die:
